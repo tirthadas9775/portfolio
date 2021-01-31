@@ -1,0 +1,70 @@
+.color {
+    color: aqua;
+}
+h1 {
+    font-size: 2.5em;
+}
+.body {
+    font-family: sans-serif;
+    color: black;
+    font-size: large;
+    padding-top: 1px;
+    font-size: 36px;
+}
+.side-things {
+    float: left;
+    width: 270px;
+    height: 50%;
+}
+.primary-btn {
+    color: white;
+    background-color: #8845f4;
+    padding: 15px 45px 15 px 45px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 100px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.btn {
+    padding-left: 270px;
+}
+.container {
+    padding-left: 5%;
+    display: inline-block;
+}
+.container-1 {
+    padding-right: 5%;
+}
+.side-things-1 {
+    float: right;
+    width: 300px;
+    height: 40%;
+}
+.para-2 {
+    font-size: 30px;
+    padding-left: 20px;
+}
+h2 {
+    font-size: 2em;
+    padding-left: 20px;
+    color: turquoise;
+}
+.para-3 {
+    font-size: 20px;
+}
+.form {
+    background-color: aqua;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.button {
+    padding-left: 1400px;
+    padding-bottom: 10px;
+}
+.heading {
+    text-align: center;
+    color: cornflowerblue;
+}
